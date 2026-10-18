@@ -13,3 +13,10 @@
     <img src="https://img.shields.io/badge/Discord-darkblue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
 </div>
+
+### Обо мне :
+---
+
+- Я обучаюсь в Иркутском Государственном Университете.
+- Занимаюсь 3D моделированием в <img src="https://img.shields.io/badge/Blender3D-orange?logo=blender&logoColor=white" alt="Blender3D">
+- Пробую сделать свои собственные игры на <img src="https://img.shields.io/badge/Unity-gray?logo=unity&logoColor=white" alt="Unity"> и <img src="https://img.shields.io/badge/Godot-blue?logo=godotengine&logoColor=white" alt="Godot">
