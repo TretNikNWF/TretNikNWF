@@ -9,6 +9,6 @@
     <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube Badge"/>
   </a>
   <a href="https://discord.com/users/576393230506000385">
-    <img src="https://img.shields.io/badge/Discord-darkblue?logo=discord&logoColor=white&style=for-the-badge5" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-darkblue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
 </div>
