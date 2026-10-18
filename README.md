@@ -12,4 +12,6 @@
     <img src="https://img.shields.io/badge/Discord-darkblue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=TretNikNWF&style=flat-square&color=blue" alt=""/>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=TretNikNWF&style=flat-square&color=blue" alt=""/>
+</div>
