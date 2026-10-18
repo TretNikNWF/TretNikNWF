@@ -18,5 +18,24 @@
 ---
 
 - Я обучаюсь в Иркутском Государственном Университете.
-- Занимаюсь 3D моделированием в <img src="https://img.shields.io/badge/Blender3D-orange?logo=blender&logoColor=white" alt="Blender3D">
-- Пробую сделать свои собственные игры на <img src="https://img.shields.io/badge/Unity-gray?logo=unity&logoColor=white" alt="Unity"> и <img src="https://img.shields.io/badge/Godot-blue?logo=godotengine&logoColor=white" alt="Godot">
+- Занимаюсь 3D моделированием в <img src="https://img.shields.io/badge/Blender3D-orange?logo=blender&logoColor=white" alt="Blender3D">.
+- Пробую сделать свои собственные игры на <img src="https://img.shields.io/badge/Unity-gray?logo=unity&logoColor=white" alt="Unity"> и <img src="https://img.shields.io/badge/Godot-blue?logo=godotengine&logoColor=white" alt="Godot">.
+
+### Языки и инструменты:
+<div>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/csharp/csharp-original.svg" alt="C#" height="40">
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/unity/unity-original.svg" alt="Unity" height="40">
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" height="40">
+  </a>
+  <a href="https://godotengine.org/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/godot/godot-original.svg" alt="Godot" height="40">
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/blender/blender-original.svg" alt="Blender" height="40">
+  </a>
+</div>
