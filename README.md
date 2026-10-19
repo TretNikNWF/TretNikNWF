@@ -40,5 +40,8 @@
   </a>
 </div>
 
-### Обо мне :
-<img src="https://drive.google.com/thumbnail?id=1DoIS3KaqzOFbMCKF-lAA-pyQgo9oYy-v&sz=w1000" alt="Blender"/>
+### Мои работы :
+<div>
+  <img src="https://drive.google.com/thumbnail?id=1DoIS3KaqzOFbMCKF-lAA-pyQgo9oYy-v&sz=w500" alt="Blender Render 1"/>
+  <img src="https://drive.google.com/thumbnail?id=1Qnl7anRhqYhIaVNhzoBmwWFxmDcCI8Gi&sz=w500" alt="Blender Render 2"/>
+</div>
