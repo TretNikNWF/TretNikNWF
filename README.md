@@ -41,4 +41,4 @@
 </div>
 
 ### Обо мне :
-<img src="https://drive.google.com/file/d/1DoIS3KaqzOFbMCKF-lAA-pyQgo9oYy-v/view?usp=sharing alt="Blender">
+<img src="https://drive.google.com/thumbnail?id=1DoIS3KaqzOFbMCKF-lAA-pyQgo9oYy-v&sz=w1000" alt="Blender"/>
