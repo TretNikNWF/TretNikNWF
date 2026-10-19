@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  ![Animation](./flaming_skeleton_forward_fast_v1.gif)
+  <img src="./flaming_skeleton_forward_fast_v1.gif" width="150"/>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxjcDcyNTI4aDBrMnlnemNxdWRtM2MycGFrdXdpY3g0cHNuYWkzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="300"/>
-  ![Animation](./flaming_skeleton_forward_fast_v1.gif)
+  <img src="./flaming_skeleton_forward_fast_v1.gif" width="150"/>
 </div>
 <div id="badges">
   <h1>Мои соцсети:</h1>
