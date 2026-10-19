@@ -1,3 +1,62 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Радиальный градиент для огня -->
+    <radialGradient id="fireGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff7b0">
+        <animate attributeName="stop-color" 
+                 values="#fff7b0;#ffcc00;#ff6600;#ff3300;#fff7b0" 
+                 dur="2s" 
+                 repeatCount="1" 
+                 fill="freeze"/>
+      </stop>
+      <stop offset="40%" stop-color="#ff6600">
+        <animate attributeName="stop-color" 
+                 values="#ff6600;#ff3300;#cc0000;#ff6600;#ff6600" 
+                 dur="2s" 
+                 repeatCount="1" 
+                 fill="freeze"/>
+      </stop>
+      <stop offset="100%" stop-color="#cc0000">
+        <animate attributeName="stop-color" 
+                 values="#cc0000;#660000;#000000;#cc0000;#cc0000" 
+                 dur="2s" 
+                 repeatCount="1" 
+                 fill="freeze"/>
+      </stop>
+    </radialGradient>
+
+    <!-- Фильтр турбулентности для имитации языков пламени -->
+    <filter id="fireTurb" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="turbulence" baseFrequency="0.04" numOctaves="3" seed="5" result="turb">
+        <!-- Анимация частоты для эффекта мерцания, проигрывается 1 раз -->
+        <animate attributeName="baseFrequency" 
+                 values="0.04;0.08;0.03;0.06;0.04" 
+                 dur="2s" 
+                 repeatCount="1" 
+                 fill="freeze"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" in2="turb" scale="25" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+
+  <!-- Фон (можно убрать) -->
+  <rect width="100%" height="100%" fill="#0a0a0a"/>
+
+  <!-- Радиальный "взрыв" огня -->
+  <circle cx="400" cy="200" r="150" fill="url(#fireGrad)" filter="url(#fireTurb)">
+    <!-- Анимация размера: от маленького к большому, один раз -->
+    <animate attributeName="r" 
+             values="10;150;180;150" 
+             dur="2s" 
+             repeatCount="1" 
+             fill="freeze"/>
+    <animate attributeName="opacity" 
+             values="0;1;1;0.8" 
+             dur="2s" 
+             repeatCount="1" 
+             fill="freeze"/>
+  </circle>
+</svg>
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxjcDcyNTI4aDBrMnlnemNxdWRtM2MycGFrdXdpY3g0cHNuYWkzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="300"/>
 </div>
