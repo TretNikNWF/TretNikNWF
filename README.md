@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="./flaming_skeleton_forward_fast_v1.gif" width="300"/>
+  <img src="./flaming_skeleton_forward_fast_v1.gif" style="transform: scaleX(-1);">
 </div>
 <div id="badges">
   <h1>Мои соцсети:</h1>
