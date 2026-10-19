@@ -39,3 +39,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/blender/blender-original.svg" alt="Blender" height="40">
   </a>
 </div>
+### Мои работы:
+    <img src="https://drive.google.com/file/d/1DoIS3KaqzOFbMCKF-lAA-pyQgo9oYy-v/view?usp=sharing alt="Blender">
