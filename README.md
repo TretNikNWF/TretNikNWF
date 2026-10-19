@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="./flaming_skeleton_forward_fast_v1.gif" width="300"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxjcDcyNTI4aDBrMnlnemNxdWRtM2MycGFrdXdpY3g0cHNuYWkzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="300"/>
-  <img src="./flaming_skeleton_forward_fast_v1.gif" width="300"/>
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FUSER%2FUSER%2Fmain%2Fflaming_skeleton_forward_fast_v1.gif&amp;flop" width="300"/>
 </div>
 <div id="badges">
   <h1>Мои соцсети:</h1>
